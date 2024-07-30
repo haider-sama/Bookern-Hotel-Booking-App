@@ -1,7 +1,7 @@
 # Bookern-Hotel-Booking-App
 A Fullstack Hotel Booking App made using React, Vite, Node.js, Express TailwindCSS and MongoDB.
 
-![Project Image](https://github.com/haider-sama/Restaurant-Ordering-App/blob/main/frontend/public/thumbnail.png)
+![Project Image](https://github.com/haider-sama/Bookern-Hotel-Booking-App/blob/main/frontend/public/thumbnail.png)
 
 ## Features
 
